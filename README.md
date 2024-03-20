@@ -8,3 +8,7 @@ Tugas Kelas Talent Hub Quality Engineer Day 5 - Test Case Management Tools
 
 **=> Soal Prioritas 2**
 <br> Link Jawaban Soal Prioritas 2 :
+
+**=> Jawaban Format PDF**
+- Menuju Folder "Tugas 6 - PDF"
+- Pilih file .pdf
